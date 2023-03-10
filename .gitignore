@@ -1,0 +1,9 @@
+.vscode
+node_modules/
+.browserslistrc
+.editorconfig
+karma.conf.js
+.angular
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
